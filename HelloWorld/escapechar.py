@@ -6,7 +6,7 @@ print(tabbedString)
 
 print('The pet shop owner said "No, no, \'e\'s uh,... he\'s resting".')
 # or
-print("The pet shop owner said \"No, no, 'e's uh,... he's resting\".")
+print("The pet shop owner said \"No, no, 'e's uh,... he's restin\".")
 
 print("""The pet shop owner said "No, No, \
  'e's uh,... he's resting". """)
