@@ -6,3 +6,5 @@ minor = "months"
 print("my age is %d %s, %d %s" % (age, major, 6, minor))
 print("PI is approximately %f" % (22 / 7))
 print("PI is approximately %60.50f" % (22 / 7))
+
+print(f"this is a string with {42 % 7} characters")
