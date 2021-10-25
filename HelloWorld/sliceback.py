@@ -26,4 +26,4 @@ def is_palindrome(s: str):
     return True
 
 
-print(is_palindrome("Are we not pure? “No, sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man—a prisoner up to new era."))
+print(is_palindrome("racecar"))
