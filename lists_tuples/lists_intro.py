@@ -4,13 +4,13 @@ computer_parts = ["computer",
                   "mouse",
                   "mouse mat"
                   ]
+print(computer_parts)
 
-for part in computer_parts:
-    print(part)
+# computer_parts[3] = "trackball"  # Change item at place number 3 # s[i] = x
+print(computer_parts[3:])
 
-print()
+computer_parts[3:] = ["trackball"]  # s[i:j] = t
+print(computer_parts)
 
-print(computer_parts[2])
-
-print(computer_parts[0:3])
-print(computer_parts[-1])
+computer_parts[3:] = ()
+print(computer_parts)
