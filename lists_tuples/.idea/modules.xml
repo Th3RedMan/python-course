@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/lists.tuples.iml" filepath="$PROJECT_DIR$/lists.tuples.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/lists_tuples.iml" filepath="$PROJECT_DIR$/.idea/lists_tuples.iml" />
+>>>>>>> 20f49a76fa80f6d649b20b6ce7daa5c8f8ec4c3b
     </modules>
   </component>
 </project>
