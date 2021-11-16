@@ -1,2 +1,2 @@
-t = "a", "b", "c"
-print(t)
+welcome = "Welcome to my Nightmare"
+(welcome)

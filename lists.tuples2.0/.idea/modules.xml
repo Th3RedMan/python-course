@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/functions_intro.iml" filepath="$PROJECT_DIR$/functions_intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lists.tuples2.0.iml" filepath="$PROJECT_DIR$/lists.tuples2.0.iml" />
     </modules>
   </component>
 </project>
